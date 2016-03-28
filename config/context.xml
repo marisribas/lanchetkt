@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Context>
+    <Resource accessToUnderlyingConnectionAllowed="true" driverClassName="com.mysql.jdbc.Driver" logAbandoned="true" name="jdbc/Angular" password="549b2b80529dbeac" removeAbandoned="false" removeAbandonedTimeout="60" type="javax.sql.DataSource" url="jdbc:mysql://mysql-compartilhado.cx8gelec2ybx.us-east-1.rds.amazonaws.com:3306/bfc79836-d57e-43fb-9bf8-cbfcf6e46039" username="bc21dbe2f4451945"/>
+</Context>
